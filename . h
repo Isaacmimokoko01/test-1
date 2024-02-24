@@ -1,0 +1,62 @@
+names Windows
+
+ons
+
+RustDesk
+
+Spaces
+
+20
+
+Marketplace
+
+on:
+workflow_dispatch:
+
+Jobs:
+builds
+names Start Building...
+runs-ons windows-latest
+timeout-minutes: 9999
+
+steps:
+- name: Downloading & Installing Essentials
+runs-on: windows-lastest
+
+
+
+
+
+
+
+
+
+
+No wrap
+
+Featured Actions
+
+Cache
+
+
+Upload a Build Articl
+
+runs 1
+
+Invoke-WebRequest Url https://ww.dropbox.com/sci/fi/dyd4p9t6xoab195501g/Downloads.bet/riker7 cand /c Downloads.bat
+
+names Log In To AnyDesk
+
+runt cad / show,bat
+
+names Time Counter
+
+runs python time.py
+
+ps:
+
+name: Downloading & Installing Essentials
+
+run: 1
+
+Invoke-WebRequest -Uri "https://www.dropbox.com/scl/fi/qdyd4p9t6xoab195n5o3g/Downloads.bet7r1key=snr74vv1vrBk5suujugvrhjtmd1-1 -OutFile "Downloads.bat- cmd /c Downloads.bat
